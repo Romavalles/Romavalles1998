@@ -1,8 +1,6 @@
 
 ![1](https://github.com/Romavalles1998/Romavalles1998/assets/145601442/a6e16d95-4e98-4d09-a7fc-2589a99ab581)
 
-![68747470733a2f2f692e6962622e636f2f6b394e7135637a2f4c6f676f2d47656e6361742d494f4a2d7765622d474a2d312e706e67]
-
 # Hello World! 👋 I'm Roma.
 
 ## About Me 🙋‍♀️
